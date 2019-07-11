@@ -1,1 +1,3 @@
-# dinger_analytics
+# Dinger Analytics
+> Collection of Major League Baseball analytics
+
